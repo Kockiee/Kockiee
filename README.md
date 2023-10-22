@@ -27,6 +27,6 @@ Estas são algumas das tecnologias com as quais trabalho:
 Fique à vontade para entrar em contato comigo:
 
 - 📧 E-mail: [Seu E-mail](mgueli1208@gmail.com)
-- 💬 LinkedIn: [[Perfil do LinkedIn](https://www.linkedin.com/in/miguel-eduardo-ribeiro-4026ab261/)]
+- 💬 LinkedIn: [Perfil do LinkedIn](https://www.linkedin.com/in/miguel-eduardo-ribeiro-4026ab261/)
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Se você encontrar algo interessante ou quiser colaborar em algum projeto, fique à vontade para entrar em contato. Obrigado por visitar!
