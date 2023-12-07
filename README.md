@@ -14,7 +14,8 @@ Bem-vindo ao meu perfil do GitHub. Sou apaixonado por tecnologia, desenvolviment
 Estas são algumas das tecnologias com as quais trabalho:
 
 - 💻 Linguagens de Programação: Python, JavaScript e C#.
-- 🌐 Tecnologias Web: HTML, CSS, React, Node.js, Next.js, etc.
+- 🌐 Tecnologias Web: HTML, CSS, React, Node.js, Next.js, TailWindCSS, Firebase, etc.
+- 📱 Tecnologias Mobile (Android): React Native, Expo, NativeWind, React Native Firebase.
 - 🛢️ Bancos de Dados: MySQL.
 - 🚀 Outras Ferramentas: Git, Docker, etc.
 
