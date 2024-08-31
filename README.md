@@ -6,7 +6,6 @@ Bem-vindo ao meu perfil do GitHub. Sou apaixonado por tecnologia, desenvolviment
 
 - 😄 Meu nome é Miguel.
 - 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades de programação.
-- 💼 Atualmente, estou trabalhando em abrir minha própria empresa de tecnologia.
 - 📫 Você pode me contatar através do meu email: mgueli1208@gmail.com ou discord: migueloncio_ (onde sou menos ativo).
 
 ## Tecnologias
